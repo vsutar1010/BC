@@ -1,4 +1,4 @@
-python digital_signature.py
+pip install cryptography
 
 from cryptography.hazmat.primitives.asymmetric import rsa, padding
 from cryptography.hazmat.primitives import hashes
